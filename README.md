@@ -1,6 +1,10 @@
 # EDA_on_Retail_Sales_Data
 PROJECT: Exploratory Data Analysis (EDA) on Retail Sales Data  Introduction  This project involves performing exploratory data analysis on retail sales data using Python. The objective is to discover meaningful patterns and trends related to product sales, customer behavior, and seasonal fluctuations to support better business decisions.
 
+Dataset 1: https://www.kaggle.com/datasets?search=retail+sales
+
+Dataset 2 : https://www.kaggle.com/datasets/mcdonalds/nutrition-facts
+
 ## retail_sales_dataset.csv: 
 Contains transactional data including dates, items sold, product categories, quantities, and total sales amounts.
 
